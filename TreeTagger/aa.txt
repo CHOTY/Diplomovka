@@ -1,0 +1,5 @@
+Posielam, verzia je tree-tagger-linux-3.2.5
+
+a použitý wrapper
+
+treetaggerwrapper==2.3

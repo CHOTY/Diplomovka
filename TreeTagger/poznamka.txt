@@ -1,0 +1,5 @@
+. == SENT
+bodky za cislovkami ako 17.(sedemnasteho) dava ako jeden token stanza ako 2
+km/s 3 tokeny stanza ako jeden
+km/s je W?
+updated je odstránenie SENT a zmenenie na Z

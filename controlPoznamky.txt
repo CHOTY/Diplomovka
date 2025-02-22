@@ -1,0 +1,5 @@
+"čo"	nema rod
+"posielame"	nema slovesnu formu
+"nepoužíva"	nema slovesnu formu
+"čakajú"	nema slovesnu formu
+"Musíme"	nema slovesnu formu

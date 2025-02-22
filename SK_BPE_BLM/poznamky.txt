@@ -1,0 +1,1 @@
+https://huggingface.co/daviddrzik/SK_BPE_BLM-pos#pos-tags

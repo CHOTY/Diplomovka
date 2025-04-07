@@ -1,1 +1,5 @@
 .venv/
+*.png
+*.jpg
+morphoditaModel
+slovak-morfflex-pdt-170914
